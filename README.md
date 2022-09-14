@@ -6,7 +6,7 @@
 
 ## Challenge
 
-- Take a look at the screenshots below.
+- Take a look at the screenshot below.
 
 - In this project we will build a game that is called **Guess my number**.
 
